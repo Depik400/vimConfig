@@ -2,7 +2,6 @@ call plug#begin()
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug 'vim-scripts/taglist.vim'
 Plug 'StanAngeloff/php.vim'
-Plug 'lvht/phpcd.vim', { 'for': 'php', 'do': 'composer install' }
 Plug 'ervandew/supertab'
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
